@@ -1,0 +1,8 @@
+aiogram==2.25.2
+openai==0.28
+aiomysql
+asyncio
+yookassa
+SpeechRecognition
+pydub
+discord

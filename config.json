@@ -1,0 +1,41 @@
+{
+  "token": "",
+  "openai": "",
+  "price_requests": "0.20",
+  "admin_id": "",
+  "database": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "db": ""
+  },
+  "yookassa": {
+    "account_id": "",
+    "secret_key": ""
+  },
+  "about_page": [
+    {
+      "descr": "Примеры использования бота ChatGPT",
+      "link": "https://telegra.ph/Primery-ispolzovaniya-ChatGPT-02-02"
+    },
+    {
+      "descr": "Как генерировать изображения",
+      "link": "https://telegra.ph/Kak-generirovat-kartinki-02-06"
+    },
+    {
+      "descr": "Проблемы с оплатой",
+      "link": "https://telegra.ph/Problema-s-zachisleniem-denezhnyh-sredstv-02-02"
+    }
+  ],
+  "discord": {
+    "DAVINCI_TOKEN": "",
+    "SERVER_ID": "",
+    "CHANNEL_ID": "",
+    "SALAI_TOKEN": "",
+    "MID_JOURNEY_ID": "",
+    "targetID": "",
+    "targetHash": "",
+    "price_requests": "7.00"
+  },
+  "commands": ["/start", "/menu", "/dialog", "/close"]
+}
